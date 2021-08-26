@@ -1,6 +1,9 @@
 ----------------------------------------------------------------
 ----------------- README - ASSESSMENT 3 ------------------------
 ----------------------------------------------------------------
+Dataset
+
+https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings
 
 Solution comprises 2 files
 
